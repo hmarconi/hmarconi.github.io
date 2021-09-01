@@ -7,6 +7,10 @@ a:link {
     color: green;
 }
 
+a:hover {
+    text-decoration: none;
+  }
+
 a:visited {
     color: blueviolet;
 }
